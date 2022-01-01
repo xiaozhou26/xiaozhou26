@@ -4,7 +4,7 @@
 
 你好！(。・∀・)ノ这里是我的GitHub个人主页。
 
-欢迎访问我的[博客](https://xiaoxiaofeixf.github.io/)
+欢迎访问我的[博客](https://blog.angelxf.studio/)
 
 * 某在读高中生
 * 干啥啥不行，摸鱼第一名🐟
