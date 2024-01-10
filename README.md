@@ -13,11 +13,6 @@
 只会写简单的代码和一些好玩的小东西😂
 
 经常整的活
-![](https://img.shields.io/badge/-C++-orange?style=flat-square&logo=C&logoColor=fff)
-![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
-![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=fff)
+![skills](https://skillicons.dev/icons?perline=14&i=bash,devto,discord,docker,git,github,githubactions,go,html,java,js,linux,md,mysql,nginx,nodejs,ps,py,pytorch,redis,sqlite,stackoverflow,twitter,ts,vercel,vscode,vue,workers,c++)
 
 [![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/out/github-snake-dark.svg)](https://github.com/xiaozhou26)
