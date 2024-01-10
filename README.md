@@ -13,6 +13,6 @@
 只会写简单的代码和一些好玩的小东西😂
 
 经常整的活
-![skills](https://skillicons.dev/icons?perline=14&i=bash,devto,discord,docker,git,github,githubactions,go,html,java,js,linux,md,mysql,nginx,nodejs,ps,py,pytorch,redis,sqlite,stackoverflow,twitter,ts,vercel,vscode,vue,workers,c++)
+![skills](https://skillicons.dev/icons?perline=14&i=bash,devto,discord,docker,git,github,githubactions,go,html,java,js,linux,md,mysql,nginx,nodejs,ps,py,pytorch,redis,sqlite,stackoverflow,twitter,ts,vercel,vscode,vue,workers,c)
 
 [![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/out/github-snake-dark.svg)](https://github.com/xiaozhou26)
