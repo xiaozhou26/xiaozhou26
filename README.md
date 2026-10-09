@@ -26,9 +26,3 @@ If you find my projects useful and would like to support my work, you can sponso
 ## 📊 GitHub Stats
 
 <p>   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xiaozhou26&theme=nord_white" /> </p>
-
-## 🌊
-
-<p align="center">   <a href="https://github.com/xiaozhou26">     <img src="https://raw.githubusercontent.com/xiaozhou26/xiaozhou26/main/out/ocean.gif" width="100%" alt="Ocean animation" />   </a> </p>
-
-<p align="center">   <sub>Thanks for stopping by! ✨</sub> </p>
